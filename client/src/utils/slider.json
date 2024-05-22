@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Anxiety disorders",
+    "price": "ILLNESS",
+    "detail": "An anxiety disorder is a type of mental health condition. If you have an anxiety disorder, you may respond to certain things and situations with fear and dread.",
+    "image": "./pic-4.png"
+  },
+  {
+    "name": "Bipolar affective disorder",
+    "price": "ILLNESS",
+    "detail": "Bipolar affective disorder is a type of mood disorder, previously referred to as ‘manic depression’. A person with bipolar disorder experiences episodes of mania (elation) and depression. The person may or may not experience psychotic symptoms.",
+    "image": "./bipolar.jpg"
+  },
+  {
+    "name": "Depression",
+    "price": "ILLNESS",
+    "detail": "Depression is a mood disorder characterised by lowering of mood, loss of interest and enjoyment, and reduced energy. It is not just feeling sad. There are different types and symptoms of depression. There are varying levels of severity and symptoms related to depression. ",
+    "image": "./pic-5.png"
+  },
+  {
+    "name": "Paranoia",
+    "price": "ILLNESS",
+    "detail": "Paranoia is the irrational and persistent feeling that people are ‘out to get you’. Paranoia may be a symptom of conditions including paranoid personality disorder, delusional (paranoid) disorder and schizophrenia.",
+    "image": "./pic-3.jpg"
+  },
+  {
+    "name": "Post-traumatic stress disorder",
+    "price": "ILLNESS",
+    "detail": "Post-traumatic stress disorder (PTSD) is a mental health condition that can develop as a response to people who have experienced any traumatic event. This can be a car or other serious accident, physical or sexual assault, war-related events or torture, or natural disasters such as bushfires or floods.",
+    "image": "./PTSD.jpg"
+  },
+  {
+    "name": "Schizophrenia",
+    "price": "ILLNESS",
+    "detail": "Schizophrenia is a complex psychotic disorder characterised by disruptions to thinking and emotions, and a distorted perception of reality. Symptoms of schizophrenia vary widely but may include hallucinations, delusions, thought disorder, social withdrawal, lack of motivation and impaired thinking and memory.",
+    "image": "./schizophrenia.jpeg"
+  }
+]
