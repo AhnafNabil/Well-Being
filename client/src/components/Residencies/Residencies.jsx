@@ -12,15 +12,15 @@ const Residencies = () => {
   };
   return (
     <section className="r-wrapper">
-      <div className="search-bar">
-        <input
-          type="text"
-          placeholder="Search Disorders"
-          value={search}
-          onChange={handleChange}
-        ></input>
-      </div>
       <div className="paddings innerWidth r-container">
+        <div className="search-bar r-head flexColStart">
+          <input
+            type="text"
+            placeholder="Search Disorders"
+            value={search}
+            onChange={handleChange}
+          ></input>
+        </div>
         <div className="r-head flexColStart">
           <span className="orangeText">Different</span>
           <span className="primaryText">Mental Disorders</span>

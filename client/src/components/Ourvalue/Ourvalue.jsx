@@ -20,7 +20,7 @@ const Ourvalue = () => {
           <span className="primaryText">Check these out!</span>
         </div>
         {/* 1 */}
-        <div className="orangeText">All you need to fight depression</div>
+        <div className="orangeText r-head">All you need to fight depression</div>
         <Swiper {...sliderSettings}>
           <SliderButtons />
           {data1.map((card, i) => (
@@ -40,7 +40,7 @@ const Ourvalue = () => {
           ))}
         </Swiper>
         {/* 2 */}
-        <div className="orangeText">All you need to fight anxiety</div>
+        <div className="orangeText r-head">All you need to fight anxiety</div>
         <Swiper {...sliderSettings}>
           <SliderButtons />
           {data2.map((card, i) => (
@@ -60,7 +60,7 @@ const Ourvalue = () => {
           ))}
         </Swiper>
         {/* 3 */}
-        <div className="orangeText">All you need to fight panic attacks</div>
+        <div className="orangeText r-head">All you need to fight panic attacks</div>
         <Swiper {...sliderSettings}>
           <SliderButtons />
           {data3.map((card, i) => (
@@ -80,7 +80,7 @@ const Ourvalue = () => {
           ))}
         </Swiper>
         {/* 4 */}
-        <div className="orangeText">All you need to fight paranoia</div>
+        <div className="orangeText r-head">All you need to fight paranoia</div>
         <Swiper {...sliderSettings}>
           <SliderButtons />
           {data4.map((card, i) => (
@@ -100,7 +100,7 @@ const Ourvalue = () => {
           ))}
         </Swiper>
         {/* 5 */}
-        <div className="orangeText">All you need to fight schizofrenia</div>
+        <div className="orangeText r-head">All you need to fight schizofrenia</div>
         <Swiper {...sliderSettings}>
           <SliderButtons />
           {data5.map((card, i) => (

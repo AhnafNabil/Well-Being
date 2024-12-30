@@ -27,7 +27,7 @@ app.use("/images", express.static("images"));
 dotenv.config();
 
 mongoose
-  .connect(process.env.MONGO_DB, {
+  .connect(process.env.MONGODB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })

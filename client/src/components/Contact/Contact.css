@@ -52,3 +52,6 @@
     color: white;
     scale: 0.8;
 }
+.row{
+    gap: 1.5rem;
+}

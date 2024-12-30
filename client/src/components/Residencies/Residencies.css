@@ -8,6 +8,7 @@
 .r-card{
     gap: 0.6rem;
     padding: 1rem;
+    height: 30rem;
     border-radius: 10px;
     max-width: max-content;
     margin: auto;
