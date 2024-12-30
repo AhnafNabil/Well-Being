@@ -34,7 +34,7 @@ const User = ({ person }) => {
           <span>
             {person.firstname} {person.lastname}
           </span>
-          <span>{person.username}</span>
+          {/* <span>{person.username}</span> */}
         </div>
       </div>
       <button
